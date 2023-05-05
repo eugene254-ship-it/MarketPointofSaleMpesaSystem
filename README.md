@@ -1,4 +1,4 @@
-# flutter Pos system  From A to Z -  <a href="https://youtu.be/8bOjXXn_E20">Demo</a>
+# flutter Pos system  From A to Z -  <a href="">Demo</a>
 
 - sqlite database 
 - provider state management
