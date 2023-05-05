@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "98847105979",
+    "project_id": "market-system-94d67",
+    "storage_bucket": "market-system-94d67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98847105979:android:af9840f86a187e53cf1a9e",
+        "android_client_info": {
+          "package_name": "com.example.marketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98847105979-b7dl371ags7h2ggee3iup6vtgj49gjtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5vSgWzO4_kDBN7sd8CevtoNKNpY8pmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98847105979-b7dl371ags7h2ggee3iup6vtgj49gjtc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98847105979-i2rt43cukq45e7u0bvbqpsrjh505f3s4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.posApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98847105979:android:879b7ec103b9b2bccf1a9e",
+        "android_client_info": {
+          "package_name": "com.pointofsale.marketsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98847105979-b7dl371ags7h2ggee3iup6vtgj49gjtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX5vSgWzO4_kDBN7sd8CevtoNKNpY8pmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98847105979-b7dl371ags7h2ggee3iup6vtgj49gjtc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98847105979-i2rt43cukq45e7u0bvbqpsrjh505f3s4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.posApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
